@@ -24,7 +24,7 @@ print(find_upper(person1, person2))
 
 ```
 
-```python
+```
 #unittest - TDD
 
 $ python test_find_upper.py
